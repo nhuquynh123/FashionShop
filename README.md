@@ -2,7 +2,7 @@
 
 ### You will find in this repo the following stuff: 
 * This repo has a basic project about Front-end
-* Techs: Visual Studio Code
+* Techs: HTML,CSS,Javascript, Visual Studio Code
 
 ## Have fun with my code and feel free to give me any comments
 
